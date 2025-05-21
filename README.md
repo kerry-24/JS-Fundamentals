@@ -1,0 +1,1 @@
+I am learning fundamentals of Javascript and this is my first constant and first print
